@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 5em 10em;
+    background-image: url(https://c1.staticflickr.com/2/1453/25691447144_948f70920a_b.jpg);
+}
+
+#content {
+    background-color: rgba(255, 255, 255, 0.71)
+}
