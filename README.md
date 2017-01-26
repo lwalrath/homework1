@@ -1,1 +1,11 @@
 # homework1
+
+Nonsense webpage with a pretty background and lorem ipsum.
+
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+<img style="border:0;width:88px;height:31px"
+src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+alt="Valid CSS!" />
+</a>
+
+Valid html too, but 2 different websites didn't give me a button.
